@@ -1,0 +1,4 @@
+#   fruit  	  nb (%)  	 price ($)	 
+b' pommes  '	b'    10   '	b'   4.5   '
+b' bananes '	b'    20   '	b'   250   '
+b' oranges '	b'    30   '	b'    42   '
